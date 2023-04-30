@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Homework_1</title>
+</head>
+<body>
+    
+    <div>
+       
+        <h1>
+            <a href="https://youtube.com" > youtube </a>
+        </br>
+            <a href="file:///D:/Egemen%20Eski%20Win/html/new%201.html#ust" > başka html </a>
+        </br>
+            <a href="#example">Example</a>
+        </br>
+            <a href="https://youtube.com" target="_blank"> youtube </a>
+        </br>
+            <a href="tel:11234567890">Call us</a>
+        </br>
+            <a href="mailto:egemenoztoprak@gmail.com">send email</a>
+        </br>
+            <a href="#" onclick="myFunction(); return false;">Run Code</a>
+        </br>
+        </h1>
+        
+    </div>
+    <div id="example">
+        szdfgdfg
+    </div>
+</body>
+</html>
+//<script>
+    function myFunction(){
+        alert("assfdgsd");
+    }
+</script>
